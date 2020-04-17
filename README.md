@@ -1,4 +1,4 @@
-# Basic-machine-Learning Projects
+# Boston House Price Prediction Project on UCI dataset
 I have tried to predict Boston House price from - https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 Steps I performed - 
 1. Convert the data into a readable format, done some cleaning
